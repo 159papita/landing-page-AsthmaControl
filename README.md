@@ -90,7 +90,7 @@ AsthmaControl está orientado a tres segmentos principales identificados en la i
 El equipo aplica el modelo **GitFlow** para el control de versiones, garantizando una integración ordenada y colaborativa entre ramas de desarrollo (`develop`), funcionalidades (`feature/*`), liberaciones (`release/*`) y correcciones (`hotfix/*`).
 
 Cada sprint incluye tareas definidas en **Jira**, con entregables verificados mediante pruebas de aceptación Gherkin y revisiones en Figma.
-
+  
 ---
 
 ## 📹 Video About-the-Product
@@ -113,3 +113,4 @@ El código fuente y los materiales visuales no están destinados a distribución
 ---
 
 **© 2025 AsthmaControl Team — Universidad Peruana de Ciencias Aplicadas.**
+
